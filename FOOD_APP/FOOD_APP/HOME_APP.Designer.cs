@@ -31,51 +31,51 @@
             this.hhh = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.cb22 = new System.Windows.Forms.CheckBox();
-            this.cbkoie = new System.Windows.Forms.CheckBox();
+            this.c22 = new System.Windows.Forms.CheckBox();
             this.label1 = new System.Windows.Forms.Label();
             this.cb10 = new System.Windows.Forms.CheckBox();
-            this.cbSaalae = new System.Windows.Forms.CheckBox();
+            this.c10 = new System.Windows.Forms.CheckBox();
             this.cb20 = new System.Windows.Forms.CheckBox();
-            this.cbdtaiplaa = new System.Windows.Forms.CheckBox();
+            this.c20 = new System.Windows.Forms.CheckBox();
             this.cb19 = new System.Windows.Forms.CheckBox();
-            this.cbBaichaploo = new System.Windows.Forms.CheckBox();
+            this.c19 = new System.Windows.Forms.CheckBox();
             this.cb18 = new System.Windows.Forms.CheckBox();
-            this.cbNamboodo = new System.Windows.Forms.CheckBox();
+            this.c18 = new System.Windows.Forms.CheckBox();
             this.cb17 = new System.Windows.Forms.CheckBox();
-            this.cbSator = new System.Windows.Forms.CheckBox();
+            this.c17 = new System.Windows.Forms.CheckBox();
             this.cb16 = new System.Windows.Forms.CheckBox();
-            this.cbBaiyaanaang = new System.Windows.Forms.CheckBox();
+            this.c16 = new System.Windows.Forms.CheckBox();
             this.cb15 = new System.Windows.Forms.CheckBox();
-            this.cbKaoKua = new System.Windows.Forms.CheckBox();
+            this.c15 = new System.Windows.Forms.CheckBox();
             this.cb14 = new System.Windows.Forms.CheckBox();
-            this.cbPlaraa = new System.Windows.Forms.CheckBox();
+            this.c14 = new System.Windows.Forms.CheckBox();
             this.cb13 = new System.Windows.Forms.CheckBox();
-            this.cbHoicherree = new System.Windows.Forms.CheckBox();
+            this.c13 = new System.Windows.Forms.CheckBox();
             this.cb12 = new System.Windows.Forms.CheckBox();
-            this.cbHuabplee = new System.Windows.Forms.CheckBox();
+            this.c12 = new System.Windows.Forms.CheckBox();
             this.cb9 = new System.Windows.Forms.CheckBox();
-            this.cbKyakGluay = new System.Windows.Forms.CheckBox();
+            this.c9 = new System.Windows.Forms.CheckBox();
             this.cb8 = new System.Windows.Forms.CheckBox();
-            this.cbKhunKanAon = new System.Windows.Forms.CheckBox();
+            this.c8 = new System.Windows.Forms.CheckBox();
             this.cb7 = new System.Windows.Forms.CheckBox();
-            this.cbPhakphi = new System.Windows.Forms.CheckBox();
+            this.c7 = new System.Windows.Forms.CheckBox();
             this.cb6 = new System.Windows.Forms.CheckBox();
-            this.cbChaGo = new System.Windows.Forms.CheckBox();
+            this.c6 = new System.Windows.Forms.CheckBox();
             this.cb5 = new System.Windows.Forms.CheckBox();
-            this.cbPhakheuat = new System.Windows.Forms.CheckBox();
+            this.c5 = new System.Windows.Forms.CheckBox();
             this.cb4 = new System.Windows.Forms.CheckBox();
-            this.cbPhakSieow = new System.Windows.Forms.CheckBox();
+            this.c4 = new System.Windows.Forms.CheckBox();
             this.cb3 = new System.Windows.Forms.CheckBox();
-            this.cbKhamin = new System.Windows.Forms.CheckBox();
+            this.c3 = new System.Windows.Forms.CheckBox();
             this.cb2 = new System.Windows.Forms.CheckBox();
-            this.cbDokNgio = new System.Windows.Forms.CheckBox();
+            this.c2 = new System.Windows.Forms.CheckBox();
             this.cb21 = new System.Windows.Forms.CheckBox();
-            this.cbBailieng = new System.Windows.Forms.CheckBox();
+            this.c21 = new System.Windows.Forms.CheckBox();
             this.cb11 = new System.Windows.Forms.CheckBox();
-            this.cbPongHanglay = new System.Windows.Forms.CheckBox();
+            this.c11 = new System.Windows.Forms.CheckBox();
             this.label23 = new System.Windows.Forms.Label();
             this.cb1 = new System.Windows.Forms.CheckBox();
-            this.cbPrikNum = new System.Windows.Forms.CheckBox();
+            this.c1 = new System.Windows.Forms.CheckBox();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
             this.dsf = new System.Windows.Forms.Label();
@@ -100,8 +100,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnStart = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.label7 = new System.Windows.Forms.Label();
             this.txtMonitor = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -121,51 +121,51 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.cb22);
-            this.panel1.Controls.Add(this.cbkoie);
+            this.panel1.Controls.Add(this.c22);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.cb10);
-            this.panel1.Controls.Add(this.cbSaalae);
+            this.panel1.Controls.Add(this.c10);
             this.panel1.Controls.Add(this.cb20);
-            this.panel1.Controls.Add(this.cbdtaiplaa);
+            this.panel1.Controls.Add(this.c20);
             this.panel1.Controls.Add(this.cb19);
-            this.panel1.Controls.Add(this.cbBaichaploo);
+            this.panel1.Controls.Add(this.c19);
             this.panel1.Controls.Add(this.cb18);
-            this.panel1.Controls.Add(this.cbNamboodo);
+            this.panel1.Controls.Add(this.c18);
             this.panel1.Controls.Add(this.cb17);
-            this.panel1.Controls.Add(this.cbSator);
+            this.panel1.Controls.Add(this.c17);
             this.panel1.Controls.Add(this.cb16);
-            this.panel1.Controls.Add(this.cbBaiyaanaang);
+            this.panel1.Controls.Add(this.c16);
             this.panel1.Controls.Add(this.cb15);
-            this.panel1.Controls.Add(this.cbKaoKua);
+            this.panel1.Controls.Add(this.c15);
             this.panel1.Controls.Add(this.cb14);
-            this.panel1.Controls.Add(this.cbPlaraa);
+            this.panel1.Controls.Add(this.c14);
             this.panel1.Controls.Add(this.cb13);
-            this.panel1.Controls.Add(this.cbHoicherree);
+            this.panel1.Controls.Add(this.c13);
             this.panel1.Controls.Add(this.cb12);
-            this.panel1.Controls.Add(this.cbHuabplee);
+            this.panel1.Controls.Add(this.c12);
             this.panel1.Controls.Add(this.cb9);
-            this.panel1.Controls.Add(this.cbKyakGluay);
+            this.panel1.Controls.Add(this.c9);
             this.panel1.Controls.Add(this.cb8);
-            this.panel1.Controls.Add(this.cbKhunKanAon);
+            this.panel1.Controls.Add(this.c8);
             this.panel1.Controls.Add(this.cb7);
-            this.panel1.Controls.Add(this.cbPhakphi);
+            this.panel1.Controls.Add(this.c7);
             this.panel1.Controls.Add(this.cb6);
-            this.panel1.Controls.Add(this.cbChaGo);
+            this.panel1.Controls.Add(this.c6);
             this.panel1.Controls.Add(this.cb5);
-            this.panel1.Controls.Add(this.cbPhakheuat);
+            this.panel1.Controls.Add(this.c5);
             this.panel1.Controls.Add(this.cb4);
-            this.panel1.Controls.Add(this.cbPhakSieow);
+            this.panel1.Controls.Add(this.c4);
             this.panel1.Controls.Add(this.cb3);
-            this.panel1.Controls.Add(this.cbKhamin);
+            this.panel1.Controls.Add(this.c3);
             this.panel1.Controls.Add(this.cb2);
-            this.panel1.Controls.Add(this.cbDokNgio);
+            this.panel1.Controls.Add(this.c2);
             this.panel1.Controls.Add(this.cb21);
-            this.panel1.Controls.Add(this.cbBailieng);
+            this.panel1.Controls.Add(this.c21);
             this.panel1.Controls.Add(this.cb11);
-            this.panel1.Controls.Add(this.cbPongHanglay);
+            this.panel1.Controls.Add(this.c11);
             this.panel1.Controls.Add(this.label23);
             this.panel1.Controls.Add(this.cb1);
-            this.panel1.Controls.Add(this.cbPrikNum);
+            this.panel1.Controls.Add(this.c1);
             this.panel1.Controls.Add(this.label24);
             this.panel1.Controls.Add(this.label25);
             this.panel1.Controls.Add(this.dsf);
@@ -208,14 +208,14 @@
             this.cb22.TabIndex = 94;
             this.cb22.UseVisualStyleBackColor = true;
             // 
-            // cbkoie
+            // c22
             // 
-            this.cbkoie.AutoSize = true;
-            this.cbkoie.Location = new System.Drawing.Point(132, 614);
-            this.cbkoie.Name = "cbkoie";
-            this.cbkoie.Size = new System.Drawing.Size(15, 14);
-            this.cbkoie.TabIndex = 93;
-            this.cbkoie.UseVisualStyleBackColor = true;
+            this.c22.AutoSize = true;
+            this.c22.Location = new System.Drawing.Point(132, 614);
+            this.c22.Name = "c22";
+            this.c22.Size = new System.Drawing.Size(15, 14);
+            this.c22.TabIndex = 93;
+            this.c22.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
@@ -238,14 +238,14 @@
             this.cb10.TabIndex = 91;
             this.cb10.UseVisualStyleBackColor = true;
             // 
-            // cbSaalae
+            // c10
             // 
-            this.cbSaalae.AutoSize = true;
-            this.cbSaalae.Location = new System.Drawing.Point(132, 317);
-            this.cbSaalae.Name = "cbSaalae";
-            this.cbSaalae.Size = new System.Drawing.Size(15, 14);
-            this.cbSaalae.TabIndex = 90;
-            this.cbSaalae.UseVisualStyleBackColor = true;
+            this.c10.AutoSize = true;
+            this.c10.Location = new System.Drawing.Point(132, 317);
+            this.c10.Name = "c10";
+            this.c10.Size = new System.Drawing.Size(15, 14);
+            this.c10.TabIndex = 90;
+            this.c10.UseVisualStyleBackColor = true;
             // 
             // cb20
             // 
@@ -258,14 +258,14 @@
             this.cb20.TabIndex = 89;
             this.cb20.UseVisualStyleBackColor = true;
             // 
-            // cbdtaiplaa
+            // c20
             // 
-            this.cbdtaiplaa.AutoSize = true;
-            this.cbdtaiplaa.Location = new System.Drawing.Point(132, 564);
-            this.cbdtaiplaa.Name = "cbdtaiplaa";
-            this.cbdtaiplaa.Size = new System.Drawing.Size(15, 14);
-            this.cbdtaiplaa.TabIndex = 88;
-            this.cbdtaiplaa.UseVisualStyleBackColor = true;
+            this.c20.AutoSize = true;
+            this.c20.Location = new System.Drawing.Point(132, 564);
+            this.c20.Name = "c20";
+            this.c20.Size = new System.Drawing.Size(15, 14);
+            this.c20.TabIndex = 88;
+            this.c20.UseVisualStyleBackColor = true;
             // 
             // cb19
             // 
@@ -278,14 +278,14 @@
             this.cb19.TabIndex = 87;
             this.cb19.UseVisualStyleBackColor = true;
             // 
-            // cbBaichaploo
+            // c19
             // 
-            this.cbBaichaploo.AutoSize = true;
-            this.cbBaichaploo.Location = new System.Drawing.Point(132, 539);
-            this.cbBaichaploo.Name = "cbBaichaploo";
-            this.cbBaichaploo.Size = new System.Drawing.Size(15, 14);
-            this.cbBaichaploo.TabIndex = 86;
-            this.cbBaichaploo.UseVisualStyleBackColor = true;
+            this.c19.AutoSize = true;
+            this.c19.Location = new System.Drawing.Point(132, 539);
+            this.c19.Name = "c19";
+            this.c19.Size = new System.Drawing.Size(15, 14);
+            this.c19.TabIndex = 86;
+            this.c19.UseVisualStyleBackColor = true;
             // 
             // cb18
             // 
@@ -298,14 +298,14 @@
             this.cb18.TabIndex = 85;
             this.cb18.UseVisualStyleBackColor = true;
             // 
-            // cbNamboodo
+            // c18
             // 
-            this.cbNamboodo.AutoSize = true;
-            this.cbNamboodo.Location = new System.Drawing.Point(132, 513);
-            this.cbNamboodo.Name = "cbNamboodo";
-            this.cbNamboodo.Size = new System.Drawing.Size(15, 14);
-            this.cbNamboodo.TabIndex = 84;
-            this.cbNamboodo.UseVisualStyleBackColor = true;
+            this.c18.AutoSize = true;
+            this.c18.Location = new System.Drawing.Point(132, 513);
+            this.c18.Name = "c18";
+            this.c18.Size = new System.Drawing.Size(15, 14);
+            this.c18.TabIndex = 84;
+            this.c18.UseVisualStyleBackColor = true;
             // 
             // cb17
             // 
@@ -318,14 +318,14 @@
             this.cb17.TabIndex = 83;
             this.cb17.UseVisualStyleBackColor = true;
             // 
-            // cbSator
+            // c17
             // 
-            this.cbSator.AutoSize = true;
-            this.cbSator.Location = new System.Drawing.Point(132, 491);
-            this.cbSator.Name = "cbSator";
-            this.cbSator.Size = new System.Drawing.Size(15, 14);
-            this.cbSator.TabIndex = 82;
-            this.cbSator.UseVisualStyleBackColor = true;
+            this.c17.AutoSize = true;
+            this.c17.Location = new System.Drawing.Point(132, 491);
+            this.c17.Name = "c17";
+            this.c17.Size = new System.Drawing.Size(15, 14);
+            this.c17.TabIndex = 82;
+            this.c17.UseVisualStyleBackColor = true;
             // 
             // cb16
             // 
@@ -338,14 +338,14 @@
             this.cb16.TabIndex = 81;
             this.cb16.UseVisualStyleBackColor = true;
             // 
-            // cbBaiyaanaang
+            // c16
             // 
-            this.cbBaiyaanaang.AutoSize = true;
-            this.cbBaiyaanaang.Location = new System.Drawing.Point(132, 463);
-            this.cbBaiyaanaang.Name = "cbBaiyaanaang";
-            this.cbBaiyaanaang.Size = new System.Drawing.Size(15, 14);
-            this.cbBaiyaanaang.TabIndex = 80;
-            this.cbBaiyaanaang.UseVisualStyleBackColor = true;
+            this.c16.AutoSize = true;
+            this.c16.Location = new System.Drawing.Point(132, 463);
+            this.c16.Name = "c16";
+            this.c16.Size = new System.Drawing.Size(15, 14);
+            this.c16.TabIndex = 80;
+            this.c16.UseVisualStyleBackColor = true;
             // 
             // cb15
             // 
@@ -358,14 +358,14 @@
             this.cb15.TabIndex = 79;
             this.cb15.UseVisualStyleBackColor = true;
             // 
-            // cbKaoKua
+            // c15
             // 
-            this.cbKaoKua.AutoSize = true;
-            this.cbKaoKua.Location = new System.Drawing.Point(132, 439);
-            this.cbKaoKua.Name = "cbKaoKua";
-            this.cbKaoKua.Size = new System.Drawing.Size(15, 14);
-            this.cbKaoKua.TabIndex = 78;
-            this.cbKaoKua.UseVisualStyleBackColor = true;
+            this.c15.AutoSize = true;
+            this.c15.Location = new System.Drawing.Point(132, 439);
+            this.c15.Name = "c15";
+            this.c15.Size = new System.Drawing.Size(15, 14);
+            this.c15.TabIndex = 78;
+            this.c15.UseVisualStyleBackColor = true;
             // 
             // cb14
             // 
@@ -378,14 +378,14 @@
             this.cb14.TabIndex = 77;
             this.cb14.UseVisualStyleBackColor = true;
             // 
-            // cbPlaraa
+            // c14
             // 
-            this.cbPlaraa.AutoSize = true;
-            this.cbPlaraa.Location = new System.Drawing.Point(132, 414);
-            this.cbPlaraa.Name = "cbPlaraa";
-            this.cbPlaraa.Size = new System.Drawing.Size(15, 14);
-            this.cbPlaraa.TabIndex = 76;
-            this.cbPlaraa.UseVisualStyleBackColor = true;
+            this.c14.AutoSize = true;
+            this.c14.Location = new System.Drawing.Point(132, 414);
+            this.c14.Name = "c14";
+            this.c14.Size = new System.Drawing.Size(15, 14);
+            this.c14.TabIndex = 76;
+            this.c14.UseVisualStyleBackColor = true;
             // 
             // cb13
             // 
@@ -398,14 +398,14 @@
             this.cb13.TabIndex = 75;
             this.cb13.UseVisualStyleBackColor = true;
             // 
-            // cbHoicherree
+            // c13
             // 
-            this.cbHoicherree.AutoSize = true;
-            this.cbHoicherree.Location = new System.Drawing.Point(132, 388);
-            this.cbHoicherree.Name = "cbHoicherree";
-            this.cbHoicherree.Size = new System.Drawing.Size(15, 14);
-            this.cbHoicherree.TabIndex = 74;
-            this.cbHoicherree.UseVisualStyleBackColor = true;
+            this.c13.AutoSize = true;
+            this.c13.Location = new System.Drawing.Point(132, 388);
+            this.c13.Name = "c13";
+            this.c13.Size = new System.Drawing.Size(15, 14);
+            this.c13.TabIndex = 74;
+            this.c13.UseVisualStyleBackColor = true;
             // 
             // cb12
             // 
@@ -418,14 +418,14 @@
             this.cb12.TabIndex = 73;
             this.cb12.UseVisualStyleBackColor = true;
             // 
-            // cbHuabplee
+            // c12
             // 
-            this.cbHuabplee.AutoSize = true;
-            this.cbHuabplee.Location = new System.Drawing.Point(132, 364);
-            this.cbHuabplee.Name = "cbHuabplee";
-            this.cbHuabplee.Size = new System.Drawing.Size(15, 14);
-            this.cbHuabplee.TabIndex = 72;
-            this.cbHuabplee.UseVisualStyleBackColor = true;
+            this.c12.AutoSize = true;
+            this.c12.Location = new System.Drawing.Point(132, 364);
+            this.c12.Name = "c12";
+            this.c12.Size = new System.Drawing.Size(15, 14);
+            this.c12.TabIndex = 72;
+            this.c12.UseVisualStyleBackColor = true;
             // 
             // cb9
             // 
@@ -438,14 +438,14 @@
             this.cb9.TabIndex = 71;
             this.cb9.UseVisualStyleBackColor = true;
             // 
-            // cbKyakGluay
+            // c9
             // 
-            this.cbKyakGluay.AutoSize = true;
-            this.cbKyakGluay.Location = new System.Drawing.Point(132, 293);
-            this.cbKyakGluay.Name = "cbKyakGluay";
-            this.cbKyakGluay.Size = new System.Drawing.Size(15, 14);
-            this.cbKyakGluay.TabIndex = 70;
-            this.cbKyakGluay.UseVisualStyleBackColor = true;
+            this.c9.AutoSize = true;
+            this.c9.Location = new System.Drawing.Point(132, 293);
+            this.c9.Name = "c9";
+            this.c9.Size = new System.Drawing.Size(15, 14);
+            this.c9.TabIndex = 70;
+            this.c9.UseVisualStyleBackColor = true;
             // 
             // cb8
             // 
@@ -458,14 +458,14 @@
             this.cb8.TabIndex = 69;
             this.cb8.UseVisualStyleBackColor = true;
             // 
-            // cbKhunKanAon
+            // c8
             // 
-            this.cbKhunKanAon.AutoSize = true;
-            this.cbKhunKanAon.Location = new System.Drawing.Point(132, 266);
-            this.cbKhunKanAon.Name = "cbKhunKanAon";
-            this.cbKhunKanAon.Size = new System.Drawing.Size(15, 14);
-            this.cbKhunKanAon.TabIndex = 68;
-            this.cbKhunKanAon.UseVisualStyleBackColor = true;
+            this.c8.AutoSize = true;
+            this.c8.Location = new System.Drawing.Point(132, 266);
+            this.c8.Name = "c8";
+            this.c8.Size = new System.Drawing.Size(15, 14);
+            this.c8.TabIndex = 68;
+            this.c8.UseVisualStyleBackColor = true;
             // 
             // cb7
             // 
@@ -478,14 +478,14 @@
             this.cb7.TabIndex = 67;
             this.cb7.UseVisualStyleBackColor = true;
             // 
-            // cbPhakphi
+            // c7
             // 
-            this.cbPhakphi.AutoSize = true;
-            this.cbPhakphi.Location = new System.Drawing.Point(132, 242);
-            this.cbPhakphi.Name = "cbPhakphi";
-            this.cbPhakphi.Size = new System.Drawing.Size(15, 14);
-            this.cbPhakphi.TabIndex = 66;
-            this.cbPhakphi.UseVisualStyleBackColor = true;
+            this.c7.AutoSize = true;
+            this.c7.Location = new System.Drawing.Point(132, 242);
+            this.c7.Name = "c7";
+            this.c7.Size = new System.Drawing.Size(15, 14);
+            this.c7.TabIndex = 66;
+            this.c7.UseVisualStyleBackColor = true;
             // 
             // cb6
             // 
@@ -498,14 +498,14 @@
             this.cb6.TabIndex = 65;
             this.cb6.UseVisualStyleBackColor = true;
             // 
-            // cbChaGo
+            // c6
             // 
-            this.cbChaGo.AutoSize = true;
-            this.cbChaGo.Location = new System.Drawing.Point(132, 217);
-            this.cbChaGo.Name = "cbChaGo";
-            this.cbChaGo.Size = new System.Drawing.Size(15, 14);
-            this.cbChaGo.TabIndex = 64;
-            this.cbChaGo.UseVisualStyleBackColor = true;
+            this.c6.AutoSize = true;
+            this.c6.Location = new System.Drawing.Point(132, 217);
+            this.c6.Name = "c6";
+            this.c6.Size = new System.Drawing.Size(15, 14);
+            this.c6.TabIndex = 64;
+            this.c6.UseVisualStyleBackColor = true;
             // 
             // cb5
             // 
@@ -518,14 +518,14 @@
             this.cb5.TabIndex = 63;
             this.cb5.UseVisualStyleBackColor = true;
             // 
-            // cbPhakheuat
+            // c5
             // 
-            this.cbPhakheuat.AutoSize = true;
-            this.cbPhakheuat.Location = new System.Drawing.Point(132, 192);
-            this.cbPhakheuat.Name = "cbPhakheuat";
-            this.cbPhakheuat.Size = new System.Drawing.Size(15, 14);
-            this.cbPhakheuat.TabIndex = 62;
-            this.cbPhakheuat.UseVisualStyleBackColor = true;
+            this.c5.AutoSize = true;
+            this.c5.Location = new System.Drawing.Point(132, 192);
+            this.c5.Name = "c5";
+            this.c5.Size = new System.Drawing.Size(15, 14);
+            this.c5.TabIndex = 62;
+            this.c5.UseVisualStyleBackColor = true;
             // 
             // cb4
             // 
@@ -538,14 +538,14 @@
             this.cb4.TabIndex = 61;
             this.cb4.UseVisualStyleBackColor = true;
             // 
-            // cbPhakSieow
+            // c4
             // 
-            this.cbPhakSieow.AutoSize = true;
-            this.cbPhakSieow.Location = new System.Drawing.Point(132, 167);
-            this.cbPhakSieow.Name = "cbPhakSieow";
-            this.cbPhakSieow.Size = new System.Drawing.Size(15, 14);
-            this.cbPhakSieow.TabIndex = 60;
-            this.cbPhakSieow.UseVisualStyleBackColor = true;
+            this.c4.AutoSize = true;
+            this.c4.Location = new System.Drawing.Point(132, 167);
+            this.c4.Name = "c4";
+            this.c4.Size = new System.Drawing.Size(15, 14);
+            this.c4.TabIndex = 60;
+            this.c4.UseVisualStyleBackColor = true;
             // 
             // cb3
             // 
@@ -558,14 +558,14 @@
             this.cb3.TabIndex = 59;
             this.cb3.UseVisualStyleBackColor = true;
             // 
-            // cbKhamin
+            // c3
             // 
-            this.cbKhamin.AutoSize = true;
-            this.cbKhamin.Location = new System.Drawing.Point(132, 142);
-            this.cbKhamin.Name = "cbKhamin";
-            this.cbKhamin.Size = new System.Drawing.Size(15, 14);
-            this.cbKhamin.TabIndex = 58;
-            this.cbKhamin.UseVisualStyleBackColor = true;
+            this.c3.AutoSize = true;
+            this.c3.Location = new System.Drawing.Point(132, 142);
+            this.c3.Name = "c3";
+            this.c3.Size = new System.Drawing.Size(15, 14);
+            this.c3.TabIndex = 58;
+            this.c3.UseVisualStyleBackColor = true;
             // 
             // cb2
             // 
@@ -578,14 +578,14 @@
             this.cb2.TabIndex = 57;
             this.cb2.UseVisualStyleBackColor = true;
             // 
-            // cbDokNgio
+            // c2
             // 
-            this.cbDokNgio.AutoSize = true;
-            this.cbDokNgio.Location = new System.Drawing.Point(132, 117);
-            this.cbDokNgio.Name = "cbDokNgio";
-            this.cbDokNgio.Size = new System.Drawing.Size(15, 14);
-            this.cbDokNgio.TabIndex = 56;
-            this.cbDokNgio.UseVisualStyleBackColor = true;
+            this.c2.AutoSize = true;
+            this.c2.Location = new System.Drawing.Point(132, 117);
+            this.c2.Name = "c2";
+            this.c2.Size = new System.Drawing.Size(15, 14);
+            this.c2.TabIndex = 56;
+            this.c2.UseVisualStyleBackColor = true;
             // 
             // cb21
             // 
@@ -598,14 +598,14 @@
             this.cb21.TabIndex = 54;
             this.cb21.UseVisualStyleBackColor = true;
             // 
-            // cbBailieng
+            // c21
             // 
-            this.cbBailieng.AutoSize = true;
-            this.cbBailieng.Location = new System.Drawing.Point(132, 589);
-            this.cbBailieng.Name = "cbBailieng";
-            this.cbBailieng.Size = new System.Drawing.Size(15, 14);
-            this.cbBailieng.TabIndex = 53;
-            this.cbBailieng.UseVisualStyleBackColor = true;
+            this.c21.AutoSize = true;
+            this.c21.Location = new System.Drawing.Point(132, 589);
+            this.c21.Name = "c21";
+            this.c21.Size = new System.Drawing.Size(15, 14);
+            this.c21.TabIndex = 53;
+            this.c21.UseVisualStyleBackColor = true;
             // 
             // cb11
             // 
@@ -618,14 +618,14 @@
             this.cb11.TabIndex = 50;
             this.cb11.UseVisualStyleBackColor = true;
             // 
-            // cbPongHanglay
+            // c11
             // 
-            this.cbPongHanglay.AutoSize = true;
-            this.cbPongHanglay.Location = new System.Drawing.Point(132, 339);
-            this.cbPongHanglay.Name = "cbPongHanglay";
-            this.cbPongHanglay.Size = new System.Drawing.Size(15, 14);
-            this.cbPongHanglay.TabIndex = 49;
-            this.cbPongHanglay.UseVisualStyleBackColor = true;
+            this.c11.AutoSize = true;
+            this.c11.Location = new System.Drawing.Point(132, 339);
+            this.c11.Name = "c11";
+            this.c11.Size = new System.Drawing.Size(15, 14);
+            this.c11.TabIndex = 49;
+            this.c11.UseVisualStyleBackColor = true;
             // 
             // label23
             // 
@@ -648,14 +648,14 @@
             this.cb1.TabIndex = 46;
             this.cb1.UseVisualStyleBackColor = true;
             // 
-            // cbPrikNum
+            // c1
             // 
-            this.cbPrikNum.AutoSize = true;
-            this.cbPrikNum.Location = new System.Drawing.Point(132, 92);
-            this.cbPrikNum.Name = "cbPrikNum";
-            this.cbPrikNum.Size = new System.Drawing.Size(15, 14);
-            this.cbPrikNum.TabIndex = 45;
-            this.cbPrikNum.UseVisualStyleBackColor = true;
+            this.c1.AutoSize = true;
+            this.c1.Location = new System.Drawing.Point(132, 92);
+            this.c1.Name = "c1";
+            this.c1.Size = new System.Drawing.Size(15, 14);
+            this.c1.TabIndex = 45;
+            this.c1.UseVisualStyleBackColor = true;
             // 
             // label24
             // 
@@ -897,15 +897,6 @@
             this.panel2.Size = new System.Drawing.Size(682, 874);
             this.panel2.TabIndex = 2;
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(721, 9);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(119, 33);
-            this.label7.TabIndex = 12;
-            this.label7.Text = "ผลการรัน";
-            // 
             // panel3
             // 
             this.panel3.Controls.Add(this.label7);
@@ -915,6 +906,15 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(682, 874);
             this.panel3.TabIndex = 0;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(721, 9);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(119, 33);
+            this.label7.TabIndex = 12;
+            this.label7.Text = "ผลการรัน";
             // 
             // txtMonitor
             // 
@@ -984,51 +984,51 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.CheckBox cb10;
-        private System.Windows.Forms.CheckBox cbSaalae;
+        private System.Windows.Forms.CheckBox c10;
         private System.Windows.Forms.CheckBox cb20;
-        private System.Windows.Forms.CheckBox cbdtaiplaa;
+        private System.Windows.Forms.CheckBox c20;
         private System.Windows.Forms.CheckBox cb19;
-        private System.Windows.Forms.CheckBox cbBaichaploo;
+        private System.Windows.Forms.CheckBox c19;
         private System.Windows.Forms.CheckBox cb18;
-        private System.Windows.Forms.CheckBox cbNamboodo;
+        private System.Windows.Forms.CheckBox c18;
         private System.Windows.Forms.CheckBox cb17;
-        private System.Windows.Forms.CheckBox cbSator;
+        private System.Windows.Forms.CheckBox c17;
         private System.Windows.Forms.CheckBox cb16;
-        private System.Windows.Forms.CheckBox cbBaiyaanaang;
+        private System.Windows.Forms.CheckBox c16;
         private System.Windows.Forms.CheckBox cb15;
-        private System.Windows.Forms.CheckBox cbKaoKua;
+        private System.Windows.Forms.CheckBox c15;
         private System.Windows.Forms.CheckBox cb14;
-        private System.Windows.Forms.CheckBox cbPlaraa;
+        private System.Windows.Forms.CheckBox c14;
         private System.Windows.Forms.CheckBox cb13;
-        private System.Windows.Forms.CheckBox cbHoicherree;
+        private System.Windows.Forms.CheckBox c13;
         private System.Windows.Forms.CheckBox cb12;
-        private System.Windows.Forms.CheckBox cbHuabplee;
+        private System.Windows.Forms.CheckBox c12;
         private System.Windows.Forms.CheckBox cb9;
-        private System.Windows.Forms.CheckBox cbKyakGluay;
+        private System.Windows.Forms.CheckBox c9;
         private System.Windows.Forms.CheckBox cb8;
-        private System.Windows.Forms.CheckBox cbKhunKanAon;
+        private System.Windows.Forms.CheckBox c8;
         private System.Windows.Forms.CheckBox cb7;
-        private System.Windows.Forms.CheckBox cbPhakphi;
+        private System.Windows.Forms.CheckBox c7;
         private System.Windows.Forms.CheckBox cb6;
-        private System.Windows.Forms.CheckBox cbChaGo;
+        private System.Windows.Forms.CheckBox c6;
         private System.Windows.Forms.CheckBox cb5;
-        private System.Windows.Forms.CheckBox cbPhakheuat;
+        private System.Windows.Forms.CheckBox c5;
         private System.Windows.Forms.CheckBox cb4;
-        private System.Windows.Forms.CheckBox cbPhakSieow;
+        private System.Windows.Forms.CheckBox c4;
         private System.Windows.Forms.CheckBox cb3;
-        private System.Windows.Forms.CheckBox cbKhamin;
+        private System.Windows.Forms.CheckBox c3;
         private System.Windows.Forms.CheckBox cb2;
-        private System.Windows.Forms.CheckBox cbDokNgio;
+        private System.Windows.Forms.CheckBox c2;
         private System.Windows.Forms.CheckBox cb21;
-        private System.Windows.Forms.CheckBox cbBailieng;
+        private System.Windows.Forms.CheckBox c21;
         private System.Windows.Forms.CheckBox cb11;
-        private System.Windows.Forms.CheckBox cbPongHanglay;
+        private System.Windows.Forms.CheckBox c11;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.CheckBox cb1;
-        private System.Windows.Forms.CheckBox cbPrikNum;
+        private System.Windows.Forms.CheckBox c1;
         private System.Windows.Forms.TextBox txtMonitor;
         private System.Windows.Forms.CheckBox cb22;
-        private System.Windows.Forms.CheckBox cbkoie;
+        private System.Windows.Forms.CheckBox c22;
         private System.Windows.Forms.Label label1;
     }
 }

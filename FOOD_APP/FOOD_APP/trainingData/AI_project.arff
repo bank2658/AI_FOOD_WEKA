@@ -7,11 +7,11 @@
 @attribute 'Phak heuat' {NO,YES}
 @attribute 'Cha Go' {NO,YES}
 @attribute 'Phak phi' {NO,YES}
-@attribute 'Khun Kan Aon' {NO}
+@attribute 'Khun Kan Aon' {NO,YES}
 @attribute 'Kyak Gluay' {NO,YES}
 @attribute 'Saa lae' {NO,YES}
 @attribute 'Pong Hang-lay' {NO,YES}
-@attribute 'Hua bplee' {YES,NO}
+@attribute 'Hua bplee' {NO,YES}
 @attribute 'Bai cha ploo' {NO,YES}
 @attribute 'Hoi cher-ree' {NO,YES}
 @attribute 'Pla raa' {NO,YES}
@@ -22,7 +22,7 @@
 @attribute 'dtai plaa' {NO,YES}
 @attribute 'Bai lieng' {NO,YES}
 @attribute koie {NO,YES}
-@attribute Class {N,S,W}
+@attribute class {N,S,W}
 
 @data
 NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,N
